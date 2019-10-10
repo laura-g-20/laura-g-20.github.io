@@ -1,4 +1,4 @@
-[Back](Index.md)
+[Back](index.md)
 
 I am a GIS and Mapping Specialist at the British Antarctic Survey, Cambridge, UK with 3.5 years' professional work experience.
 I studied Physical Geography and German BSc at Aberystwyth University and then continued to do an MSc in Glaciology, also at Aberystwyth.
