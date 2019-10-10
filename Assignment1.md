@@ -10,14 +10,7 @@ I studied Physical Geography and German BSc at Aberystwyth University and then c
 
 Here is a link to my work profile: https://www.bas.ac.uk/profile/lauger/ and my twitter handle is @lauragerrish
 
-I am currently completing a part time, distance learning Diploma in GIS with Leeds and Southampton universities. This website was built for an assignment in a coding module.
-
+I am currently completing a part time, distance learning Diploma in GIS with Leeds and Southampton universities. This website was built for an assignment in the 'Programming for Geographical Information Analysts: Core Skills' module.
 I am interested in coding and want to improve my skills. 
 
-**test bold**   
-
-*test italics*
-
-## List test:
-1. Hello
-2. World
+I have learnt how to write text in **bold**, *italics* and ***bold italics***.
