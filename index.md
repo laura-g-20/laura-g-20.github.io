@@ -1,13 +1,11 @@
 ## Welcome to my page!
 
-I am a GIS and Mapping Specialist at the British Antarctic Survey, Cambridge, UK, and this page gives you a brief introduction to me.
+I am a GIS and Mapping Specialist at the British Antarctic Survey, Cambridge, UK, and this website gives you a brief introduction to me.   
+I am currently completing a part-time, distance-learning Diploma in GIS and I created these pages for an assignment in the 'Programming for Geographical Information Analysts: Core Skills' module.
 
 [Biography](biography.md)
-
-I am currently completing a part-time, distance-learning Diploma in GIS and this website was created for an assignment in the 'Programming for Geographical Information Analysts: Core Skills' module. Have a look at the explanation and link to my first project by following the link below:   
-
+   
 [My first coding project](my_first_code.md)
-
 
 [Professional work](Professional_work.md)
 
