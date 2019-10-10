@@ -11,6 +11,8 @@ I am currently completing a part-time, distance-learning Diploma in GIS and this
 
 [Professional work](Professional_work.md)
 
+![IMG_1251](https://user-images.githubusercontent.com/55357394/66609572-59369980-ebb1-11e9-913d-18e9f84d974c.JPG)
+
 
 Connect with me on Linkedin or follow me on Twitter to stay connected! 
 
