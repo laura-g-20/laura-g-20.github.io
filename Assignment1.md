@@ -19,6 +19,8 @@ I am a (semi-)active user of Twitter. Check out a recent tweet below and feel fr
 
 I have learnt how to write text in **bold**, *italics* and ***bold italics***.
 
+[Professional work](Professional_work.md)
+
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="laura-gerrish-8736a7108"><a class="LI-simple-link" href='https://uk.linkedin.com/in/laura-gerrish-8736a7108?trk=profile-badge'>Laura Gerrish</a></div>
