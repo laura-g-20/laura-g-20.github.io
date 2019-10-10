@@ -1,8 +1,12 @@
-[Back](index.md)
+I was tasked with building an Agent Based Model as a way to learn a lot of the basics of python, following the instructions on this website from Leeds University lecturer, Andy Evans https://www.geog.leeds.ac.uk/courses/computing/study/core-python-odl/   
 
-I was tasked with building an Agent Based Model...
+The code is commented and should make sense by itself, but I will also give a brief overview of what it does here: 
 
-Explanation:    
+* ...
+* ...
+* ...
+
+Depending on what python IDE you are using, you have to change the backend to use TKinter...
 
 
-Here is a link to the code:...  [Code](model_backup9.py)
+Here is a link to the two scripts that are needed to run the model:...  [Model](model_backup9.py) [Agent Class](agentframework.py)
