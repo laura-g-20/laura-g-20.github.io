@@ -7,6 +7,3 @@ The code is commented and should make sense by itself, but I will also give a br
 * ...
 
 Depending on what python IDE you are using, you have to change the backend to use TKinter...
-
-
-Here is a link to the two scripts that are needed to run the model:...  [Model](model_backup9.py) [Agent Class](agentframework.py)
