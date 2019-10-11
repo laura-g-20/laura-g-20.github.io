@@ -1,6 +1,6 @@
 [Back](index.md)
 
-I have been working at the British Antarctic Survey in Cambridge, UK since September 2016. Although I am a 'Mapping and GIS Specialist', I have no formal GIS qualification, hence completing the part-time GIS Diploma and creating this website. 
+I have been working at the British Antarctic Survey in Cambridge, UK since September 2016. I am primarily interested in topographic mapping...
 
 I currently use GIS in a fairly *traditional* way but I have been actively developing my skills over the last few years and am looking forward to incorporating coding into my work to improve efficiency and effectiveness.
 
