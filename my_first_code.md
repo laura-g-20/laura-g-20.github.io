@@ -11,4 +11,4 @@ The code is commented and should make sense by itself, but I will also give a br
 Depending on what python IDE you are using, you have to change the backend to use TKinter...
 
 
-Here is a link to the code: [Model](model_backup9.py), [Agent Framework](AgentFramework)
+Here is a link to the code: [Model](https://github.com/laura-g-20/laura-g-20.github.io/blob/master/model_backup9.py), [Agent Framework](AgentFramework)
