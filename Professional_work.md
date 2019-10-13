@@ -6,7 +6,7 @@ I currently use GIS in a fairly *traditional* way but I have been actively devel
 
 I run a Helpdesk which supports a wide range of people and activities and produces around 200 outputs per year. A few photos of maps that I have produced are shown below. These give an idea of the range of projects that I work on.
 
-I also manage BAS's portfolio of [published maps](https://www.bas.ac.uk/data/our-data/maps/) which need managing and updating every few years, as data availibility improves and glaciers and ice shelfs ocnstantly change.
+I also manage BAS's portfolio of [published maps](https://www.bas.ac.uk/data/our-data/maps/) which need managing and updating every few years, as data availibility improves and glaciers and ice shelfs constantly change. Have a look through the portfolio if you are interested. All maps are available to purchase from a few different shops, including [Stanfords](http://www.stanfords.co.uk/).
 
 ![Greenlad stan](https://user-images.githubusercontent.com/55357394/66609986-4ec8cf80-ebb2-11e9-843f-72424a717b73.jpeg)
 *'Greenland and the European Arctic' published map. Copyright BAS, NERC*
