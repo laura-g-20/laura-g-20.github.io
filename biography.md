@@ -1,7 +1,7 @@
 [Back](index.md)
 
 I am a GIS and Mapping Specialist at the British Antarctic Survey, Cambridge, UK with 3.5 years' professional work experience.
-I studied Physical Geography and German BSc at Aberystwyth University and then continued to do an MSc in Glaciology, also at Aberystwyth.
+I studied Physical Geography and German BSc at Aberystwyth University and then continued to complete an MSc in Glaciology, also at Aberystwyth.
 
 I live in Milton, Cambridge with my partner and our dog and one of my favourite things about Cambridge is being able to cycle everywhere! 
 
