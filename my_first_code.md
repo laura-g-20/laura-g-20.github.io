@@ -8,4 +8,7 @@ The code is commented and should make sense by itself, but I will also give a br
 * Item2
 * Etc
 
-The code is comprised of two files: a runtime file, [`model.py`](https://github.com/laura-g-20/laura-g-20.github.io/blob/master/model_backup9.py), and a class to describe the Agent, Agentframework.py. 
+The code is comprised of two files: a runtime file, [`model.py`](https://github.com/laura-g-20/laura-g-20.github.io/blob/master/model.py), and a class to describe the [`Agent.py`](https://github.com/laura-g-20/laura-g-20.github.io/blob/master/agentframework.py)
+
+The files have been run and tested using Spyder (Python 3.7) on a Windows machine. The only other file you should need to run it is [in.txt](https://github.com/laura-g-20/laura-g-20.github.io/files/3722436/in.txt).
+
