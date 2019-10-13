@@ -1,6 +1,6 @@
 [Back](index.md)
 
-I was tasked with building an Agent Based Model as a way to learn a lot of the basics of python, following the instructions on this [website](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-odl/) from Leeds University lecturer, Andy Evans.  
+I was tasked with building an Agent Based Model as a way to learn the basics of python, following the instructions on this [website](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-odl/) from Leeds University lecturer, Andy Evans.  
 
 The code is commented and should make sense by itself, but here is a quick description in people-friendly language of what the model does. A fairly easy way to think of it is that we are creating a list of 'sheep' (agents), who move around a 'field' (environment) dependant on a random number, eating 'grass' (the value of the environment) as they go around. The amount of grass that the sheep eat changes depending on how close they are to each other and how much grass is available. 
 
