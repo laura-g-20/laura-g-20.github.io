@@ -15,7 +15,7 @@ Connect with me on Linkedin or follow me on Twitter to stay connected!
 
 <p><a href="https://twitter.com/laura_gerrish?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @laura_gerrish</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-<<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="laura-gerrish-8736a7108"><a class="LI-simple-link" href='https://uk.linkedin.com/in/laura-gerrish-8736a7108?trk=profile-badge'>Laura Gerrish</a></div>
 
 The HTML for the two links above was taken directly from Linkedin and Twitter pages and not written myself. Everything else on these pages was written by myself using Markdown.
