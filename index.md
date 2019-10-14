@@ -5,9 +5,7 @@ I am currently completing a part-time, distance-learning Diploma in GIS and I cr
 Have a look through the following pages to find out some more information about me and to see my first attempt at building a model in python.
 
 [Biography](biography.md)
-   
-[My first coding project](my_first_code.md)
 
 [Professional work](Professional_work.md)
-   
-  
+
+[My first coding project](my_first_code.md)
